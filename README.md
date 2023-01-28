@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I'm a senior web develper
-- 🔭 I’m currently learning golang
+- 🌱 I’m currently learning golang
+- 👯 [My awesome repositories](https://huoyijie.github.io/awesome)
+- 🔭 [My blogs](https://huoyijie.cn) (https://huoyijie.cn)
+- 📫 [My resume](https://huoyijie.github.io/resume)
