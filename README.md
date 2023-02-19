@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning golang
 - 👯 [My awesome repositories](https://huoyijie.github.io/awesome)
 - 🔭 My blogs https://huoyijie.cn
+- ⚡  My keynotes https://huoyijie.github.io
 - 📫 [My resume](https://huoyijie.github.io/resume)
