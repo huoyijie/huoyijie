@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 I'm a senior web develper
-- 🌱 I’m currently learning golang
-- 👯 [My awesome repositories](https://huoyijie.github.io/awesome)
-- 🔭 My blogs https://huoyijie.cn
-- ⚡  My keynotes https://huoyijie.github.io
-- 📫 [My resume](https://huoyijie.github.io/resume)
+- 😄 I'm a senior web develper.
+- 🌱 I’m currently learning golang.
+- 👯 These are [my awesome repositories](https://huoyijie.github.io/awesome).
+- 🔭 [huoyijie.cn](https://huoyijie.cn) is my website, and [huoyijie.github.io](https://huoyijie.github.io) is a mirror site.
+- 📫 [Huo Yijie](https://huoyijie.github.io/resume) is my resume.
